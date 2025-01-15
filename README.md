@@ -1,2 +1,2 @@
 # Remote-Data-Extraction-Tool
-Utilized for the remote extraction of forensic data during incident response.
+Python script that leverages automation to assist with remote evidence collection (/proc) on Linux platforms.
